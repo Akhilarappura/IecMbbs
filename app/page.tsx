@@ -698,7 +698,7 @@
                   </div>
                   <div className="flex items-center">
                     <Mail className="h-5 w-5 text-blue-600 mr-3" />
-                    <span>info@eduglobal.com</span>
+                    <span>info@iecmbbs.com</span>
                   </div>
                   <div className="flex items-center">
                     <MapPin className="h-5 w-5 text-blue-600 mr-3" />
